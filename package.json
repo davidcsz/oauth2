@@ -1,0 +1,14 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "Barebones OAuth 2.0 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
