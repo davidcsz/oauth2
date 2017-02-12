@@ -1,6 +1,6 @@
 # OAuth2
 
-OAuth 2.0 through Node.
+Promise based OAuth 2.0 library.
 
 ## Functions
 
